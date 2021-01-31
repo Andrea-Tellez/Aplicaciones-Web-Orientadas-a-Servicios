@@ -1,7 +1,7 @@
 import web
 
 urls = (
-    '/', 'mvc.index.Index'
+    '/', 'libros.index.Index'
 )
 app = web.application(urls, globals())
 
