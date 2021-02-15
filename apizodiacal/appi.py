@@ -85,6 +85,7 @@ class Horoscopo():
         return v
       elif  dia >= 23 and mes == 9 or mes == 10 and dia <= 22:
         libra = {}
+        libra["signo"]="libra"
         libra["numero_suerte"]= "2, 8 y 19"
         libra["elemento"]= "Aire"
         libra["color"]= "Rosa"
