@@ -1,0 +1,6 @@
+{"nombre": "andrea_tellez", "ano_nacimiento": 2001, "edad_actualmente": 20}
+{"nombre": "monica_ortiz", "ano_nacimiento": 2012, "edad_actualmente": 9}
+{"nombre": "tulia_tellez", "ano_nacimiento": 1979, "edad_actualmente": 42}
+{"nombre": "andres_ortiz", "ano_nacimiento": 1979, "edad_actualmente": 42}
+{"nombre": "yamir_ortiz", "ano_nacimiento": 1995, "edad_actualmente": 26}
+{"nombre": "viridian_tellez", "ano_nacimiento": 1996, "edad_actualmente": 25}
